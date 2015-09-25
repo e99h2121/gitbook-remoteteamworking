@@ -26,7 +26,7 @@ http://thinkit.co.jp/article/912/1
 
 - コアとなる原則
 
-- "適合し適正な" プロセス（“Fits just right” process）
+- "適合し適正な" プロセス（"Fits just right" process）
 - 継続的なテストと評価（Continuous testing and validation）
 - 一貫したチームコラボレーション（Consistent team collaboration）
 - 変化への迅速な対応（Rapid response to change）
