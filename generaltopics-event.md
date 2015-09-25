@@ -1,6 +1,6 @@
 ## Event
 
-### Yearly conference
+#### Yearly conference
 
-### Team building, Party
+#### Team building, Party
 
