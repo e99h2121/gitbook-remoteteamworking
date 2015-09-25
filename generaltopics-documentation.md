@@ -7,3 +7,6 @@
 - http://sphinx-doc.org/
 
 - https://www.transifex.com/
+
+- https://en.wikipedia.org/wiki/List_of_wiki_software
+
