@@ -19,5 +19,5 @@
 
 #### Online Chat
 
-https://slack.com/
+- https://slack.com/
 
