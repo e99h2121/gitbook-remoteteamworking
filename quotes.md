@@ -21,6 +21,11 @@
 - [Distributed Agile Software Development:
 A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
+- [Distributed Development and Quality Will Suffer](http://www.infoq.com/news/2008/12/distributed-development-quality)
+
+- [Case study: Distributed Scrum Project for Dutch Railways](http://www.infoq.com/articles/dutch-railway-scrum)
+
+
 
 #### E.g. IBM
 
@@ -34,25 +39,11 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 - [MS Experience Yields Distributed Agile "Dos and Don'ts"](http://www.infoq.com/news/2008/11/Distributed-Agile-Paper)
 
 
-#### E.g. Oracle
-
-http://docs.oracle.com/cd/B28359_01/server.111/b28310/ds_concepts005.htm
-
-#### E.g. SAP
-
-http://help.sap.com/saphelp_nw04s/helpdata/ja/15/ad62e67e682347b3fd5cde279235be/content.htm
-
 #### E.g. NTT Data
 
-http://www.slideshare.net/shibao800/tfs-dd-agile
+- [「TFSで実現する分散アジャイル開発」 TFS ユーザーズ勉強会(Japanese)](http://www.slideshare.net/shibao800/tfs-dd-agile)
 
-- 開発の分散は品質の問題が生じるだろう
 
-http://www.infoq.com/jp/news/2009/01/distributed-development-quality
 
-http://www.infoq.com/news/2008/12/distributed-development-quality
 
-- 事例研究：Dutch Railwaysのプロジェクトにおける分散拠点でのスクラム・プロジェクト
-
-Dutch Railway:http://www.infoq.com/jp/articles/dutch-railway-scrum
 
