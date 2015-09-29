@@ -2,26 +2,30 @@
 
 #### General understanding 
 
-http://biz30.timedoctor.com/21-essential-strategies-for-managing-virtual-teams/
+- [21 Essential Strategies for Managing Virtual Teams](http://biz30.timedoctor.com/21-essential-strategies-for-managing-virtual-teams/)
 
-https://www.quora.com/What-are-the-best-books-or-resources-on-developing-in-distributed-teams
 
-http://blog.assembla.com/assemblablog/tabid/12618/bid/75793/5-Do-s-and-Don-ts-for-Managing-Distributed-Teams-A-Tech-Lead-Speaks.aspx
+- [What are the best books or resources on developing in distributed teams?](https://www.quora.com/What-are-the-best-books-or-resources-on-developing-in-distributed-teams)
 
-http://blog.assembla.com/assemblablog/tabid/12618/bid/97780/Team-Management-like-a-Boss.aspx
+- [5 Do's and Don'ts for Managing Distributed Teams - A Tech Lead Speaks](http://blog.assembla.com/assemblablog/tabid/12618/bid/75793/5-Do-s-and-Don-ts-for-Managing-Distributed-Teams-A-Tech-Lead-Speaks.aspx)
 
-http://blog.assembla.com/assemblablog/tabid/12618/bid/90729/Beyond-Scrum-Roadmap.aspx
+- [Team Management like a Boss](http://blog.assembla.com/assemblablog/tabid/12618/bid/97780/Team-Management-like-a-Boss.aspx)
 
-https://speakerdeck.com/mikecohn/scaling-distributed-teams
 
-http://www.solutionsiq.com/docs/successful-distributed-team-working-patterns.pdf
+- [Beyond Scrum Roadmap](http://blog.assembla.com/assemblablog/tabid/12618/bid/90729/Beyond-Scrum-Roadmap.aspx)
 
-http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf
+- [Scaling Distributed Teams](https://speakerdeck.com/mikecohn/scaling-distributed-teams)
+
+- [Successful Distributed Agile Team Working Patterns](http://www.solutionsiq.com/docs/successful-distributed-team-working-patterns.pdf)
+
+- [Distributed Agile Software Development:
+A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 
 #### E.g. IBM
 
-http://www-06.ibm.com/ibm/jp/provision/no75/pdf/75_papers1.pdf
+- [グローバルに分散したチームによるアジャイル開発の課題とその解決策(Japanese)](https://www-304.ibm.com/connections/blogs/ProVISION71_75/resource/no75/75_papers1.pdf?lang=ja)
+
 
 http://thinkit.co.jp/article/908/1
 
