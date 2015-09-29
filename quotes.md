@@ -31,7 +31,8 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 #### E.g. Microsoft
 
-http://www.infoq.com/jp/news/2008/11/Distributed-Agile-Paper
+- [MS Experience Yields Distributed Agile "Dos and Don'ts"](http://www.infoq.com/news/2008/11/Distributed-Agile-Paper)
+
 
 #### E.g. Oracle
 
