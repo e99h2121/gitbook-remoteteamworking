@@ -26,26 +26,8 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 - [グローバルに分散したチームによるアジャイル開発の課題とその解決策(Japanese)](https://www-304.ibm.com/connections/blogs/ProVISION71_75/resource/no75/75_papers1.pdf?lang=ja)
 
+- [分散開発とアジャイル開発は、水と油か？(Japanese)](http://thinkit.co.jp/article/908/1)
 
-http://thinkit.co.jp/article/908/1
-
-http://thinkit.co.jp/article/912/1
-
-
-- コアとなる原則
-
-- "適合し適正な" プロセス（"Fits just right" process）
-- 継続的なテストと評価（Continuous testing and validation）
-- 一貫したチームコラボレーション（Consistent team collaboration）
-- 変化への迅速な対応（Rapid response to change）
-- 開発過程にお客さまを組み入れる（Ongoing customer involvement）
-- 稼働するソフトウエアを頻繁にリリースする（Frequent delivery of working software）
-Eclipse Way - 実際に製品開発に適用されているプラクティス集
-
-構成プラクティス
-（1）チーム・組織編成という視点
-（2）プロジェクト計画と管理という視点
-（3）要求管理という視点
 
 #### E.g. Microsoft
 
