@@ -2,6 +2,8 @@
 
 #### General understanding 
 
+http://biz30.timedoctor.com/21-essential-strategies-for-managing-virtual-teams/
+
 https://www.quora.com/What-are-the-best-books-or-resources-on-developing-in-distributed-teams
 
 http://blog.assembla.com/assemblablog/tabid/12618/bid/75793/5-Do-s-and-Don-ts-for-Managing-Distributed-Teams-A-Tech-Lead-Speaks.aspx
