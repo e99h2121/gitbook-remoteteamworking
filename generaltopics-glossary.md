@@ -2,6 +2,8 @@
 
 - To summarize the glossary. To make a consensus in each terminology. For example: "紐付ける" may used in Japanese engineer, but it is not common. 
 
+http://www.gartner.com/it-glossary/
+
 
 #### Microsoft Terminology
 - http://www.microsoft.com/Language/en-US/Default.aspx
