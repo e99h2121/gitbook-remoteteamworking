@@ -23,24 +23,22 @@
 
 - [Google Hangouts](https://hangouts.google.com/)
 
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
 
-
-TeamViewer
-https://www.teamviewer.com/ja/index.aspx
 Need install the exe.
 
-ScreenLeap
-http://www.screenleap.com/
+- [ScreenLeap](http://www.screenleap.com/)
 
-Joinme
-https://join.me/
+- [Joinme](https://join.me/)
+
 14days free trial
 
-ShowMyPC
-http://showmypc.com/
+- [ShowMyPC](http://showmypc.com/)
+
 Need java
 
-http://www.mingleview.com/
+- [Mingle view](http://www.mingleview.com/)
+
 Need download
 
 - [Open meetings](http://openmeetings.apache.org/)
@@ -60,8 +58,6 @@ Require $0.99
 Need facebook
 
 - Windows Remote Assistance
-
-- Google Hangout
 
 - Messages (Mac OS)
 
