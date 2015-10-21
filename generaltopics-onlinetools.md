@@ -49,8 +49,6 @@ Requires Email, google or Facebook account.
 
 - [WebWhiteBoard](http://webwhiteboard.com/)
 
-- []
-
 
 
 #### Task tracking
