@@ -9,6 +9,12 @@ http://www.gartner.com/it-glossary/
 - http://www.microsoft.com/Language/en-US/Default.aspx
 - http://www.museumsandtheweb.com/pub/MARLS/MSTP-V3.pdf
 
+#### Facebook Terminology
+- https://www.facebook.com/help/219443701509174/
+
+#### Twitter Terminology
+- https://support.twitter.com/articles/166337
+
 #### Accounting Terminology
 - http://bookkeeping-english.seesaa.net/category/5807115-1.html
 - http://www.mizuho-sc.com/english/ebond/translation/accounting.pdf
