@@ -25,6 +25,7 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 - [Case study: Distributed Scrum Project for Dutch Railways](http://www.infoq.com/articles/dutch-railway-scrum)
 
+- [Remote Works Spain](https://signalvnoise.com/posts/3651-remote-works-bebanjo-spain)
 
 
 #### E.g. IBM
