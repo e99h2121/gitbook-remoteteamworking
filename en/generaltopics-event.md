@@ -6,6 +6,8 @@
 
 - [PechaKucha](https://en.wikipedia.org/wiki/PechaKucha)
 
+- [TED](http://www.ted.com/)
+
 
 #### Choose What Works
 
