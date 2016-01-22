@@ -8,5 +8,8 @@
    * [Online tools](generaltopics-onlinetools.md)
    * [Event](generaltopics-event.md)
    * [Others](generaltopics-others.md)
+* [Development topics](developmenttopics.md)
+   * [Project management](developmenttopics-projectmanagement.md)
+   * [Microservice](developmenttopics-microservice.md)
 * [Quotes](quotes.md)
 * [Terminology](terminology.md)
