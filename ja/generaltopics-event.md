@@ -1,5 +1,7 @@
 ## Event
 
+イベントを開催し情報を網羅する
+
 #### Tech talk
 
 - [Lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)

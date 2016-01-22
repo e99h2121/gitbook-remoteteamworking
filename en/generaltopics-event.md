@@ -1,5 +1,7 @@
 ## Event
 
+To summarize the information in the event
+
 #### Tech talk
 
 - [Lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)

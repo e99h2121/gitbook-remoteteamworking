@@ -1,8 +1,8 @@
 Remote team working
 =======
 
-Geographically distributed development as the remote team working is essential in order to inspire each other by great new idea.
+物理的、地理的に離れたチーム同士で開発を行うこと はお互いをインスパイアし合ったり、新しいアイディアを生み出すために必須です
 
-To realize great relationship and communication, this document will summarize the topics for better remote team working development. 
+理想的な関係とコミュニケーションを実現する為に、このドキュメントではいくつかのトピックに分けて、より良いリモートチーム開発についてまとめます
 
 

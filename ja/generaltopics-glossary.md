@@ -1,6 +1,6 @@
 ## Glossary
 
-- To summarize the glossary. To make a consensus in each terminology. For example: "紐付ける" may used in Japanese engineer, but it is not common. 
+- 各種用語集。用語についてコンセンサスを作る。例: "紐付ける" という言葉が日本語として使われることがあるが一般的ではない
 
 http://www.gartner.com/it-glossary/
 

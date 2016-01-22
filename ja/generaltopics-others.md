@@ -2,6 +2,9 @@
 
 #### To know about the Recruiting, Training, something like human resource development activity.
 
+- ‚»‚ê‚¼‚ê‚ÌlŞŠJ”­–î‚É‚Â‚¢‚Ä”cˆ¬‚·‚é
+
+
 #### How to travel.
 
 #### What is "Bridge SE" ?

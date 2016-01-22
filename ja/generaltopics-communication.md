@@ -3,12 +3,12 @@
 
 #### Mailing list
 
-- Useful to share the information in the case by case.
+- その場その場に応じて、関係するメンバーを網羅して情報を共有することができる点で有用
 
 ### Meetings
 - https://en.wikipedia.org/wiki/Category:Meetings
 
-- Weekly meeting via online tools
+- 週次でのオンラインミーティング
 
 
 #### Daily meeting
@@ -28,37 +28,37 @@
 
 - [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
 
-Need install the exe.
+exeインストールが必要
 
 - [ScreenLeap](http://www.screenleap.com/)
 
 - [Joinme](https://join.me/)
 
-14days free trial
+14日間の無料トライアル
 
 - [ShowMyPC](http://showmypc.com/)
 
-Need java
+javaが必要
 
 - [Mingle view](http://www.mingleview.com/)
 
-Need download
+downloadが必要
 
 - [Open meetings](http://openmeetings.apache.org/)
 
-Need setup
+setupが必要
 
 - [Mikogo](https://www.mikogo.com/)
 
-Download exefile
+downloadが必要
 
 - [Vyew](http://vyew.com/s/)
 
-Require $0.99
+$0.99課金
 
 - [Deskhop](http://deskhopapp.com/)
 
-Need facebook
+facebookが必要
 
 - Windows Remote Assistance
 
@@ -66,11 +66,11 @@ Need facebook
 
 - [AnyMeeting](http://www.anymeeting.com/)
 
-Max 4 attendees in Free
+参加者4名まで無料
 
 - [Zoom](https://zoom.us/pricing)
 
-40min per meeting
+ミーティング当たり40分まで
 
 
 - Articles

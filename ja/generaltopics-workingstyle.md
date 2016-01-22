@@ -1,9 +1,10 @@
 ## Working style
 
 #### Daily schedule
- Make a consensus by using common tool for each other. And define where is the standard to share the schedule.
 
-We can also check:
+互いに共通のツールを使いスケジュールをシェアする
+
+以下も参照:
 
 - Google calendar.
 
@@ -13,7 +14,7 @@ We can also check:
 
 #### Timezone
 
-- Between Shanghai / Tokyo, we can notice that by which timezone we will hold a meeting etc.
+- 拠点間でそれぞれのタイムゾーンを考えて会議を開く
 
 - http://www.timeanddate.com/worldclock/
 
@@ -21,14 +22,14 @@ We can also check:
 
 #### Working day/Holiday
 
-- Each country have each national holiday.
+- それぞれの国におけるそれぞれの休日を把握する
 
 - http://www.timeanddate.com/holidays/
 
 
 #### Working hours
 
-- Overwork is not the common way?
+- 残業に対する考え方の違いを把握する
 
 - https://en.wikipedia.org/wiki/Working_time
 
@@ -37,14 +38,14 @@ We can also check:
 
 #### Attendance
 
-- When you are in office?
+- いつからいつまで会社に在席しているのか
 
 - http://www.forbes.com/sites/laurashin/2014/01/17/work-from-home-the-top-100-companies-offering-flexible-jobs-in-2014/
 
 
 #### Dress code
 
-- Formal or not so formal?
+- フォーマルなのかそうでないのか
 
 - http://www.businessinsider.com/how-to-dress-for-work-business-attire-2014-8
 
@@ -52,7 +53,7 @@ We can also check:
 
 #### Office facility
 
-- Sudden shutdown, unavailable network.
+- インフラ事情の違いについて
 
 - https://en.wikipedia.org/wiki/Public_utility
 

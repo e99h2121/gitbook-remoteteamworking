@@ -6,19 +6,19 @@ https://en.wikipedia.org/wiki/Collaborative_real-time_editor
 
 - [Google Docs](https://www.google.com/docs/about/)
 
-Need Google Account
+Google Accountが必要
 
 - [OneDrive](https://onedrive.live.com/about/en-us/)
 
-Need Microsoft Account
+Microsoft Accountが必要
 
 - [ZohoEdit](https://www.zoho.com/docs/#allfiles)
 
-Need to create account
+アカウント作成が必要
 
 - [Collabedit](http://collabedit.com/ )
 
-Just login and share URL. Text or source code only.
+ログイン、URLを共有するのみ。Text あるいは source code のみ
 
 - [Etherpad](http://etherpad.org/)
 
@@ -26,7 +26,7 @@ Open Source online editor
 
 - [Hackpad](https://hackpad.com/)
 
-Google, Facebook account, or mail address to create account.
+Google, Facebook account, あるいは mail address がアカウント作成に必要
 
 - [ZohoDocs](https://www.zoho.com/docs/download.html)
 
@@ -45,7 +45,7 @@ http://qiita.com/ayokura/items/87fc2609e3abdf8227fe
 
 - [Realtimeboard](https://realtimeboard.com/)
 
-Requires Email, google or Facebook account.
+Google, Facebook account, あるいは mail address がアカウント作成に必要
 
 - [WebWhiteBoard](http://webwhiteboard.com/)
 

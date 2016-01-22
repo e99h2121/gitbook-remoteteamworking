@@ -2,7 +2,7 @@
 
 #### Documentation such as Wiki, Sphinx ..
 
-- Require some useful base to share the common reference.
+- î•ñ‚Ì‹¤—LêŠ‚ğ—pˆÓ‚·‚é
 
 - http://sphinx-doc.org/
 
@@ -13,7 +13,7 @@
 
 #### The sharing of movie
 
-- For developer, it is easier to explain.
+- ŠJ”­Ò‚É‚Æ‚Á‚Ä‚àà–¾‚ª‚µ‚â‚·‚¢
 
 - https://www.techsmith.com/jing.html
 
