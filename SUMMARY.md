@@ -11,5 +11,6 @@
 * [Development topics](developmenttopics.md)
    * [Project management](developmenttopics-projectmanagement.md)
    * [Microservice](developmenttopics-microservice.md)
+   * [Learning](developmenttopics-learning.md)
 * [Quotes](quotes.md)
 * [Terminology](terminology.md)
