@@ -7,6 +7,7 @@
    * [Communication](generaltopics-communication.md)
    * [Online tools](generaltopics-onlinetools.md)
    * [Event](generaltopics-event.md)
+   * [Project management](generaltopics-projectmanagement.md)
    * [Others](generaltopics-others.md)
 * [Quotes](quotes.md)
 * [Terminology](terminology.md)
