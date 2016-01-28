@@ -5,16 +5,6 @@
 
 - その場その場に応じて、関係するメンバーを網羅して情報を共有することができる点で有用
 
-### Meetings
-- https://en.wikipedia.org/wiki/Category:Meetings
-
-- 週次でのオンラインミーティング
-
-
-#### Daily meeting
-
-- https://en.wikipedia.org/wiki/Stand-up_meeting
-
 
 #### Telephone
 
