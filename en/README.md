@@ -5,4 +5,6 @@ Geographically distributed development as the remote team working is essential i
 
 To realize great relationship and communication, this document will summarize the topics for better remote team working development. 
 
+Author: Born in Tokyo. Work in Shanghai branch of the software company.
 
+http://e99h2121.github.io/

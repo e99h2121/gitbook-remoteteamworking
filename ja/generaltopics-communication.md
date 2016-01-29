@@ -3,7 +3,7 @@
 
 #### Mailing list
 
-- ‚»‚Ìê‚»‚Ìê‚É‰‚¶‚ÄAŠÖŒW‚·‚éƒƒ“ƒo[‚ğ–Ô—…‚µ‚Äî•ñ‚ğ‹¤—L‚·‚é‚±‚Æ‚ª‚Å‚«‚é“_‚Å—L—p
+- ãã®å ´ãã®å ´ã«å¿œã˜ã¦ã€é–¢ä¿‚ã™ã‚‹ãƒ¡ãƒ³ãƒãƒ¼ã‚’ç¶²ç¾…ã—ã¦æƒ…å ±ã‚’å…±æœ‰ã™ã‚‹ã“ã¨ãŒã§ãã‚‹ç‚¹ã§æœ‰ç”¨
 
 
 #### Telephone
@@ -18,37 +18,37 @@
 
 - [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
 
-exeƒCƒ“ƒXƒg[ƒ‹‚ª•K—v
+exeã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãŒå¿…è¦
 
 - [ScreenLeap](http://www.screenleap.com/)
 
 - [Joinme](https://join.me/)
 
-14“úŠÔ‚Ì–³—¿ƒgƒ‰ƒCƒAƒ‹
+14æ—¥é–“ã®ç„¡æ–™ãƒˆãƒ©ã‚¤ã‚¢ãƒ«
 
 - [ShowMyPC](http://showmypc.com/)
 
-java‚ª•K—v
+javaãŒå¿…è¦
 
 - [Mingle view](http://www.mingleview.com/)
 
-download‚ª•K—v
+downloadãŒå¿…è¦
 
 - [Open meetings](http://openmeetings.apache.org/)
 
-setup‚ª•K—v
+setupãŒå¿…è¦
 
 - [Mikogo](https://www.mikogo.com/)
 
-download‚ª•K—v
+downloadãŒå¿…è¦
 
 - [Vyew](http://vyew.com/s/)
 
-$0.99‰Û‹à
+$0.99èª²é‡‘
 
 - [Deskhop](http://deskhopapp.com/)
 
-facebook‚ª•K—v
+facebookãŒå¿…è¦
 
 - Windows Remote Assistance
 
@@ -56,11 +56,11 @@ facebook‚ª•K—v
 
 - [AnyMeeting](http://www.anymeeting.com/)
 
-Q‰ÁÒ4–¼‚Ü‚Å–³—¿
+å‚åŠ è€…4åã¾ã§ç„¡æ–™
 
 - [Zoom](https://zoom.us/pricing)
 
-ƒ~[ƒeƒBƒ“ƒO“–‚½‚è40•ª‚Ü‚Å
+ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°å½“ãŸã‚Š40åˆ†ã¾ã§
 
 
 - Articles
@@ -80,3 +80,6 @@ http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps
 
 - https://slack.com/
 
+- https://www.sqwiggle.com/
+
+- https://www.remotty.net/

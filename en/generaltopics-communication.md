@@ -80,3 +80,6 @@ http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps
 
 - https://slack.com/
 
+- https://www.sqwiggle.com/
+
+- https://www.remotty.net/
