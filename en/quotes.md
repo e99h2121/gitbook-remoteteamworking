@@ -27,6 +27,9 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 - [Remote Works Spain](https://signalvnoise.com/posts/3651-remote-works-bebanjo-spain)
 
+- [日本人の美徳は通用しない–多国籍チームのマネジメントに必要なコミュニケーションとは](http://logmi.jp/73793)
+
+
 
 #### E.g. IBM
 
