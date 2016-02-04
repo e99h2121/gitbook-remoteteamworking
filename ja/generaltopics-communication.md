@@ -63,7 +63,7 @@ facebookが必要
 ミーティング当たり40分まで
 
 
-- Articles
+- 記事
 
 http://www.makeuseof.com/tag/move-google-plus-hangouts-appear-really-good/
 
@@ -83,3 +83,67 @@ http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps
 - https://www.sqwiggle.com/
 
 - https://www.remotty.net/
+
+
+#### Screen Sharing
+
+- https://hangouts.google.com/
+- https://www.zoho.com/
+- http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps-for-easy-collaboration.html#slide2
+
+
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
+
+exeインストールが必要
+
+- [ScreenLeap](http://www.screenleap.com/)
+
+
+- [Joinme](https://join.me/)
+
+14日間フリートライアル
+
+
+- [ShowMyPC](http://showmypc.com/)
+
+javaが必要
+
+
+- [MingleView](http://www.mingleview.com/)
+
+ダウンロードが必要
+
+- [OpenMeetings](http://openmeetings.apache.org/)
+
+セットアップが必要
+
+
+- https://www.mikogo.com/
+- https://www.mikogo.com/confirm-registration/
+
+exeダウンロードが必要
+
+
+- [Vyew](http://vyew.com/s/)
+
+$0.99 課金
+
+
+- [Deskhop](http://deskhopapp.com/)
+
+facebookが必要
+
+- Windows Remote Assistance
+- Skype
+- Hangout
+- Messages (Mac OS)
+
+
+- [AnyMeeting](http://www.anymeeting.com/)
+
+最大参加者4人まで無料
+
+
+- [Zoom](https://zoom.us/pricing)
+
+1会議40分まで exeダウンロードが必要

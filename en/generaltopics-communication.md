@@ -83,3 +83,70 @@ http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps
 - https://www.sqwiggle.com/
 
 - https://www.remotty.net/
+
+
+#### Screen Sharing
+
+- https://hangouts.google.com/
+- https://www.zoho.com/
+- http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps-for-easy-collaboration.html#slide2
+
+
+
+
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
+
+Need install the exe.
+
+- [ScreenLeap](http://www.screenleap.com/)
+
+
+- [Joinme](https://join.me/)
+
+14days free trial
+
+
+- [ShowMyPC](http://showmypc.com/)
+
+Need java
+
+
+- [MingleView](http://www.mingleview.com/)
+
+Need download
+
+- [OpenMeetings](http://openmeetings.apache.org/)
+
+Need setup
+
+
+- https://www.mikogo.com/
+- https://www.mikogo.com/confirm-registration/
+
+Download exefile
+
+
+- [Vyew](http://vyew.com/s/)
+
+Require $0.99
+
+
+- [Deskhop](http://deskhopapp.com/)
+
+Need facebook
+
+- Windows Remote Assistance
+- Skype
+- Hangout
+- Messages (Mac OS)
+
+
+- [AnyMeeting](http://www.anymeeting.com/)
+
+Max 4 attendees in Free
+
+
+- [Zoom](https://zoom.us/pricing)
+
+40min per meeting, Download exefile
+
