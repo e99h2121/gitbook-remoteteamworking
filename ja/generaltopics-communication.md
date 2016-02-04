@@ -80,6 +80,13 @@ http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps
 
 - https://slack.com/
 
+- [27 Productivity Tips and Hacks Every Slack User Should Know](https://premium.wpmudev.org/blog/slack-tips/)
+
+- [Slack Decides Not To Kill Email For A Little While Longer, Integrates It Instead](http://techcrunch.com/2015/08/14/slack-decides-not-to-kill-email-for-a-little-while-longer-integrates-it-instead/)
+
+Email will probably never completely die. What Slack is helping to kill is internal email, which is the bane of everyone’s existence at work.
+
+
 - https://www.sqwiggle.com/
 
 - https://www.remotty.net/
