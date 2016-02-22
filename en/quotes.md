@@ -5,6 +5,8 @@
 - [21 Essential Strategies for Managing Virtual Teams](http://biz30.timedoctor.com/21-essential-strategies-for-managing-virtual-teams/)
 
 
+- [How do you manage distributed teams? What methodologies do you use? What tools?](https://www.quora.com/How-do-you-manage-distributed-teams-What-methodologies-do-you-use-What-tools)
+
 - [What are the best books or resources on developing in distributed teams?](https://www.quora.com/What-are-the-best-books-or-resources-on-developing-in-distributed-teams)
 
 - [5 Do's and Don'ts for Managing Distributed Teams - A Tech Lead Speaks](http://blog.assembla.com/assemblablog/tabid/12618/bid/75793/5-Do-s-and-Don-ts-for-Managing-Distributed-Teams-A-Tech-Lead-Speaks.aspx)
