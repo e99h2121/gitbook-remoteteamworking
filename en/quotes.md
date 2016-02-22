@@ -33,6 +33,16 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 
 
+Pros and Cons
+
+- [4 Reasons Telecommuting Is Good for Employees and Better for the Company](http://www.entrepreneur.com/article/238352)
+
+- [4 Reasons Telecommuting Can Be Bad for Business](http://www.entrepreneur.com/article/225950)
+
+- [Remote Worker vs Distributed Team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
+
+
+
 #### E.g. IBM
 
 - [グローバルに分散したチームによるアジャイル開発の課題とその解決策(Japanese)](https://www-304.ibm.com/connections/blogs/ProVISION71_75/resource/no75/75_papers1.pdf?lang=ja)
