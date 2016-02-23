@@ -1,5 +1,8 @@
 ## Quotes
 
+Just gathered several topic of articles which can be useful for our work. 
+
+
 #### General understanding 
 
 - [21 Essential Strategies for Managing Virtual Teams](http://biz30.timedoctor.com/21-essential-strategies-for-managing-virtual-teams/)
@@ -33,7 +36,7 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 
 
-Pros and Cons
+#### Pros and Cons of Working Separately
 
 - [4 Reasons Telecommuting Is Good for Employees and Better for the Company](http://www.entrepreneur.com/article/238352)
 

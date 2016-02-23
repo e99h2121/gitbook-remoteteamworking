@@ -1,5 +1,8 @@
 ## Quotes
 
+我々の業務にも有用とおもわれる一般的な記事を集めました
+
+
 #### General understanding 
 
 - [21 Essential Strategies for Managing Virtual Teams](http://biz30.timedoctor.com/21-essential-strategies-for-managing-virtual-teams/)
@@ -33,7 +36,7 @@ A Review](http://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf)
 
 
 
-Pros and Cons
+#### そもそものリモートワーキングの利点と欠点
 
 - [4 Reasons Telecommuting Is Good for Employees and Better for the Company](http://www.entrepreneur.com/article/238352)
 
