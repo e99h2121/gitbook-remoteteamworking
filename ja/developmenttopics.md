@@ -14,6 +14,6 @@ When I've worked with other teams who is working in geographically separated tea
 
 - Let's avoid late hours meeting. Be in healthy working time. I cannot believe to wait till 9pm because of your personal matter. (Let's notice prior.)
 
-- Of course, you should point out our behavior if you feel our behavior is wrong. Saying nothing cannot comprehend anything, especially among global communication. (Please, NO ãÛãCÇì«Çﬂ. It is wrong communication style of Japanese language.)
+- Of course, you should point out our behavior if you feel our behavior is wrong. Saying nothing cannot comprehend anything, especially among global communication. (Please, NO Á©∫Ê∞ó„ÇíË™≠„ÇÅ. It is wrong communication style of Japanese language.)
 
 
