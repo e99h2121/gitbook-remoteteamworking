@@ -1,6 +1,6 @@
 ## Microservice
 
-To design with consdering about the idea of Microservice will be an essence for the remote working.
+Microserviceの基本的な考え方に基づき設計を考える
 
 
 #### Link

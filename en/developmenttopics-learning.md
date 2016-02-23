@@ -1,5 +1,7 @@
 ## Learning
 
+Originally we should keep learning and maintain our knowledge toward software development. It helps to bulid same context and understanding each other by separated teams.
+
 
 #### Link
 

@@ -1,6 +1,6 @@
 ## Project Management
 
-Just to manage reasonably regarding to software development project control way. It is simple, but effective for remote team working.
+ソフトウェア開発プロジェクトをコントロールする方法論について。複雑な話は無いがこれだけで多拠点での開発に基本的に効果が出る
 
 
 #### OKR(Objective key result)
