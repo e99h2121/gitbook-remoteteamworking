@@ -1,3 +1,3 @@
 ## Collaboration
 
-Summary of the tips not just about to talk each other, but also to work each other. 
+コミュニケーションという観点では無く、互いに離れた場所において作業を行う上での有用な情報

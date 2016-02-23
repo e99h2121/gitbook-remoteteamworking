@@ -1,8 +1,8 @@
 # Summary
 
 * [General topics](generaltopics.md)
-   * [Working style](generaltopics-workingstyle.md)
    * [Collaboration](generaltopics-collaboration.md)
+       * [Working style](generaltopics-workingstyle.md)
        * [Documentation](generaltopics-documentation.md)
        * [Glossary](generaltopics-glossary.md)
        * [Online tools](generaltopics-onlinetools.md)

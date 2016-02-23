@@ -29,52 +29,31 @@ According to the article [Modes of Communication](http://www.agilemodeling.com/e
 
 - [Google Hangouts](https://hangouts.google.com/)
 
-- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
-
-Need install the exe.
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx) - Need install the exe.
 
 - [ScreenLeap](http://www.screenleap.com/)
 
-- [Joinme](https://join.me/)
+- [Joinme](https://join.me/) - 14days free trial
 
-14days free trial
+- [ShowMyPC](http://showmypc.com/) - Need Java
 
-- [ShowMyPC](http://showmypc.com/)
+- [Mingle view](http://www.mingleview.com/) - Need download
 
-Need java
+- [Open meetings](http://openmeetings.apache.org/) - Need setup
 
-- [Mingle view](http://www.mingleview.com/)
+- [Mikogo](https://www.mikogo.com/) - Download exefile
 
-Need download
+- [Vyew](http://vyew.com/s/) - Require $0.99
 
-- [Open meetings](http://openmeetings.apache.org/)
-
-Need setup
-
-- [Mikogo](https://www.mikogo.com/)
-
-Download exefile
-
-- [Vyew](http://vyew.com/s/)
-
-Require $0.99
-
-- [Deskhop](http://deskhopapp.com/)
-
-Need facebook
+- [Deskhop](http://deskhopapp.com/) - Need facebook
 
 - Windows Remote Assistance
 
 - Messages (Mac OS)
 
-- [AnyMeeting](http://www.anymeeting.com/)
+- [AnyMeeting](http://www.anymeeting.com/) - Max 4 attendees in Free
 
-Max 4 attendees in Free
-
-- [Zoom](https://zoom.us/pricing)
-
-40min per meeting
-
+- [Zoom](https://zoom.us/pricing) - 40min per meeting
 
 - Articles
 
@@ -120,46 +99,27 @@ Email will probably never completely die. What Slack is helping to kill is inter
 
 
 
-- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
-
-Need install the exe.
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx) - Need install the exe.
 
 - [ScreenLeap](http://www.screenleap.com/)
 
+- [Joinme](https://join.me/) - 14days free trial
 
-- [Joinme](https://join.me/)
+- [ShowMyPC](http://showmypc.com/) - Need java
 
-14days free trial
+- [MingleView](http://www.mingleview.com/) - Need download
 
-
-- [ShowMyPC](http://showmypc.com/)
-
-Need java
-
-
-- [MingleView](http://www.mingleview.com/)
-
-Need download
-
-- [OpenMeetings](http://openmeetings.apache.org/)
-
-Need setup
+- [OpenMeetings](http://openmeetings.apache.org/) - Need setup
 
 
 - https://www.mikogo.com/
-- https://www.mikogo.com/confirm-registration/
-
-Download exefile
+- https://www.mikogo.com/confirm-registration/ - Download exefile
 
 
-- [Vyew](http://vyew.com/s/)
-
-Require $0.99
+- [Vyew](http://vyew.com/s/) - Require $0.99
 
 
-- [Deskhop](http://deskhopapp.com/)
-
-Need facebook
+- [Deskhop](http://deskhopapp.com/) - Need facebook
 
 - Windows Remote Assistance
 - Skype
@@ -167,14 +127,10 @@ Need facebook
 - Messages (Mac OS)
 
 
-- [AnyMeeting](http://www.anymeeting.com/)
-
-Max 4 attendees in Free
+- [AnyMeeting](http://www.anymeeting.com/) - Max 4 attendees in Free
 
 
-- [Zoom](https://zoom.us/pricing)
-
-40min per meeting, Download exefile
+- [Zoom](https://zoom.us/pricing) - 40min per meeting, Download exefile
 
 
 

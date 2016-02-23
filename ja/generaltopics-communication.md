@@ -29,51 +29,31 @@
 
 - [Google Hangouts](https://hangouts.google.com/)
 
-- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
-
-exeインストールが必要
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx) - exeインストールが必要
 
 - [ScreenLeap](http://www.screenleap.com/)
 
-- [Joinme](https://join.me/)
+- [Joinme](https://join.me/) - 14日間の無料トライアル
 
-14日間の無料トライアル
+- [ShowMyPC](http://showmypc.com/) - Javaが必要
 
-- [ShowMyPC](http://showmypc.com/)
+- [Mingle view](http://www.mingleview.com/) - downloadが必要
 
-javaが必要
+- [Open meetings](http://openmeetings.apache.org/) - setupが必要
 
-- [Mingle view](http://www.mingleview.com/)
+- [Mikogo](https://www.mikogo.com/) - downloadが必要
 
-downloadが必要
+- [Vyew](http://vyew.com/s/) - $0.99課金
 
-- [Open meetings](http://openmeetings.apache.org/)
-
-setupが必要
-
-- [Mikogo](https://www.mikogo.com/)
-
-downloadが必要
-
-- [Vyew](http://vyew.com/s/)
-
-$0.99課金
-
-- [Deskhop](http://deskhopapp.com/)
-
-facebookが必要
+- [Deskhop](http://deskhopapp.com/) - facebookが必要
 
 - Windows Remote Assistance
 
 - Messages (Mac OS)
 
-- [AnyMeeting](http://www.anymeeting.com/)
+- [AnyMeeting](http://www.anymeeting.com/) - 参加者4名まで無料
 
-参加者4名まで無料
-
-- [Zoom](https://zoom.us/pricing)
-
-ミーティング当たり40分まで
+- [Zoom](https://zoom.us/pricing) - ミーティング当たり40分まで
 
 
 - 記事
@@ -102,7 +82,7 @@ Face to face以外の１対１であれば、最も効率的
 
 - [Slack Decides Not To Kill Email For A Little While Longer, Integrates It Instead](http://techcrunch.com/2015/08/14/slack-decides-not-to-kill-email-for-a-little-while-longer-integrates-it-instead/)
 
--> Email will probably never completely die. What Slack is helping to kill is internal email, which is the bane of everyone’s existence at work.
+-> "Email will probably never completely die. What Slack is helping to kill is internal email, which is the bane of everyone's existence at work".
 
 
 - https://www.sqwiggle.com/
@@ -117,46 +97,27 @@ Face to face以外の１対１であれば、最も効率的
 - http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps-for-easy-collaboration.html#slide2
 
 
-- [TeamViewer](https://www.teamviewer.com/ja/index.aspx)
-
-exeインストールが必要
+- [TeamViewer](https://www.teamviewer.com/ja/index.aspx) - exeインストールが必要
 
 - [ScreenLeap](http://www.screenleap.com/)
 
+- [Joinme](https://join.me/) - 14日間フリートライアル
 
-- [Joinme](https://join.me/)
+- [ShowMyPC](http://showmypc.com/) - javaが必要
 
-14日間フリートライアル
+- [MingleView](http://www.mingleview.com/) - ダウンロードが必要
 
-
-- [ShowMyPC](http://showmypc.com/)
-
-javaが必要
-
-
-- [MingleView](http://www.mingleview.com/)
-
-ダウンロードが必要
-
-- [OpenMeetings](http://openmeetings.apache.org/)
-
-セットアップが必要
+- [OpenMeetings](http://openmeetings.apache.org/) - セットアップが必要
 
 
 - https://www.mikogo.com/
-- https://www.mikogo.com/confirm-registration/
-
-exeダウンロードが必要
+- https://www.mikogo.com/confirm-registration/ - exeダウンロードが必要
 
 
-- [Vyew](http://vyew.com/s/)
-
-$0.99 課金
+- [Vyew](http://vyew.com/s/) - $0.99 課金
 
 
-- [Deskhop](http://deskhopapp.com/)
-
-facebookが必要
+- [Deskhop](http://deskhopapp.com/) - facebookが必要
 
 - Windows Remote Assistance
 - Skype
@@ -164,14 +125,9 @@ facebookが必要
 - Messages (Mac OS)
 
 
-- [AnyMeeting](http://www.anymeeting.com/)
+- [AnyMeeting](http://www.anymeeting.com/) - 最大参加者4人まで無料
 
-最大参加者4人まで無料
-
-
-- [Zoom](https://zoom.us/pricing)
-
-1会議40分まで exeダウンロードが必要
+- [Zoom](https://zoom.us/pricing) - 1会議40分まで exeダウンロードが必要
 
 
 
