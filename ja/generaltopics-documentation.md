@@ -1,8 +1,11 @@
 ## Documentation
 
+情報共有として文書を利用する際に便利なトピック
+
+
 #### Documentation such as Wiki, Sphinx ..
 
-- ���̋��L�ꏊ��p�ӂ���
+まず、情報の共有場所を用意する
 
 - http://sphinx-doc.org/
 
@@ -13,13 +16,15 @@
 
 #### The sharing of movie
 
-- �J���҂ɂƂ��Ă����������₷��
+動画を利用すると開発者同士でも説明がしやすいものが作成可能
 
 - https://www.techsmith.com/jing.html
 
 
 
 #### Presentation tools
+
+プレゼンテーションツールも有用
 
 - [Five Best Online Presentation Creation Tools](http://lifehacker.com/five-best-online-presentation-creation-tools-1681476445)
 

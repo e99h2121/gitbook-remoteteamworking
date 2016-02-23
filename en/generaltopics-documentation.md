@@ -1,8 +1,11 @@
 ## Documentation
 
+When you use some documentation for the information sharing.
+
+
 #### Documentation such as Wiki, Sphinx ..
 
-- Require some useful base to share the common reference.
+First of all, it require some useful base to share the common reference.
 
 - http://sphinx-doc.org/
 
@@ -13,13 +16,15 @@
 
 #### The sharing of movie
 
-- For developer, it is easier to explain.
+For developer, movie is easier to explain.
 
 - https://www.techsmith.com/jing.html
 
 
 
 #### Presentation tools
+
+There are also seveal presentation tools for information sharing.
 
 - [Five Best Online Presentation Creation Tools](http://lifehacker.com/five-best-online-presentation-creation-tools-1681476445)
 

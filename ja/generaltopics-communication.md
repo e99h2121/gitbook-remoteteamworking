@@ -1,12 +1,23 @@
 ## Communication
 
-
-#### Mailing list
-
-- その場その場に応じて、関係するメンバーを網羅して情報を共有することができる点で有用
+[Modes of Communication](http://www.agilemodeling.com/essays/communication.htm) の記事を参照。ツールの特性を把握してコミュニケーションを図ることが有用
 
 
-#### Telephone
+|Type | Co-located | Geographically distant|Persistence required|
+| -- | -- | -- | -- |
+| Face to face around shared sketching environment | V | -- | -- |
+| Face to face conversation | V | -- | -- |
+| Video conferencing | V | V | -- |
+| Phone conversation | V | V | -- |
+| Email/online chat conversation | V | V | V |
+| Digital snapshot | V | V | V |
+| Overview documentation | V | V | V |
+| Video recording | V | V | V |
+| Audio recording | V | V | V |
+| Detailed Documentation | V | V | V |
+
+
+
 
 #### Online talking
 
@@ -78,6 +89,11 @@ https://www.google.co.jp/search?q=always+on+office+communicator&oq=always+on+off
 http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps-for-easy-collaboration.html#slide1
 
 
+#### Telephone
+
+Face to face以外の１対１であれば、最も効率的
+
+
 #### Online Chat
 
 - https://slack.com/
@@ -86,7 +102,7 @@ http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps
 
 - [Slack Decides Not To Kill Email For A Little While Longer, Integrates It Instead](http://techcrunch.com/2015/08/14/slack-decides-not-to-kill-email-for-a-little-while-longer-integrates-it-instead/)
 
-Email will probably never completely die. What Slack is helping to kill is internal email, which is the bane of everyone’s existence at work.
+-> Email will probably never completely die. What Slack is helping to kill is internal email, which is the bane of everyone’s existence at work.
 
 
 - https://www.sqwiggle.com/
@@ -156,3 +172,12 @@ facebookが必要
 - [Zoom](https://zoom.us/pricing)
 
 1会議40分まで exeダウンロードが必要
+
+
+
+
+
+
+#### Mailing list
+
+- その場その場に応じて、関係するメンバーを網羅して情報を共有することができる点で有用

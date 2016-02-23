@@ -1,12 +1,23 @@
 ## Communication
 
-
-#### Mailing list
-
-- Useful to share the information in the case by case.
+According to the article [Modes of Communication](http://www.agilemodeling.com/essays/communication.htm), there are also several difference in each effectiveness in the tools.  With considering when it should be used, to utilize every tools are required.
 
 
-#### Telephone
+|Type | Co-located | Geographically distant|Persistence required|
+| -- | -- | -- | -- |
+| Face to face around shared sketching environment | V | -- | -- |
+| Face to face conversation | V | -- | -- |
+| Video conferencing | V | V | -- |
+| Phone conversation | V | V | -- |
+| Email/online chat conversation | V | V | V |
+| Digital snapshot | V | V | V |
+| Overview documentation | V | V | V |
+| Video recording | V | V | V |
+| Audio recording | V | V | V |
+| Detailed Documentation | V | V | V |
+
+
+
 
 #### Online talking
 
@@ -78,6 +89,11 @@ https://www.google.co.jp/search?q=always+on+office+communicator&oq=always+on+off
 http://www.cio.com/article/2938650/collaboration-software/15-screen-sharing-apps-for-easy-collaboration.html#slide1
 
 
+#### Telephone
+
+If you talk with one on one with other, this will be most effective, and simple way.
+
+
 #### Online Chat
 
 - https://slack.com/
@@ -92,6 +108,7 @@ Email will probably never completely die. What Slack is helping to kill is inter
 - https://www.sqwiggle.com/
 
 - https://www.remotty.net/
+
 
 
 #### Screen Sharing
@@ -158,4 +175,10 @@ Max 4 attendees in Free
 - [Zoom](https://zoom.us/pricing)
 
 40min per meeting, Download exefile
+
+
+
+#### Mailing list
+
+- Useful to share the information in the case by case.
 

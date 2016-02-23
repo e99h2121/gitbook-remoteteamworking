@@ -1,20 +1,23 @@
 ## Working style
 
+それぞれの国や地域における諸条件の違い、働き方の違いについて把握しておくと便利なトピック
+
+
 #### Daily schedule
 
-�݂��ɋ��ʂ̃c�[�����g���X�P�W���[�����V�F�A����
+互いに共通のツールを使いスケジュールをシェアする
 
-�ȉ����Q��:
+一般的には以下参照:
 
-- Google calendar.
+- [Google calendar](https://www.google.com/calendar)
 
-- Group ware.
+- [Groupware](https://en.wikipedia.org/wiki/Category:Groupware)
 
 
 
 #### Timezone
 
-- ���_�Ԃł��ꂼ��̃^�C���]�[�����l���ĉ�c���J��
+拠点間でそれぞれのタイムゾーンを考えて会議を開く。予定を入れる際にどちらのタイムゾーンを基準にしているのか明示する
 
 - http://www.timeanddate.com/worldclock/
 
@@ -22,14 +25,14 @@
 
 #### Working day/Holiday
 
-- ���ꂼ��̍��ɂ����邻�ꂼ��̋x����c������
+それぞれの国におけるそれぞれの休日を把握する。休日前後の連絡を行う
 
 - http://www.timeanddate.com/holidays/
 
 
 #### Working hours
 
-- �c�Ƃɑ΂���l�����̈Ⴂ��c������
+残業に対する考え方の違いを把握する。共通認識を図る
 
 - https://en.wikipedia.org/wiki/Working_time
 
@@ -38,14 +41,14 @@
 
 #### Attendance
 
-- �����炢�܂ŉ�ЂɍݐȂ��Ă���̂�
+いつからいつまで会社に在席しているのか。病欠、その他の際の連絡など
 
 - http://www.forbes.com/sites/laurashin/2014/01/17/work-from-home-the-top-100-companies-offering-flexible-jobs-in-2014/
 
 
 #### Dress code
 
-- �t�H�[�}���Ȃ̂������łȂ��̂�
+フォーマルなのかそうでないのか
 
 - http://www.businessinsider.com/how-to-dress-for-work-business-attire-2014-8
 
@@ -53,14 +56,17 @@
 
 #### Office facility
 
-- �C���t������̈Ⴂ�ɂ���
+インフラ事情の違いについて
 
 - https://en.wikipedia.org/wiki/Public_utility
 
 - https://en.wikipedia.org/wiki/Great_Firewall
 
 
+
 #### Always on office communicator
+
+例: {えんがわオフィス}(http://engawa-office.com/system20151006/)
 
 - https://www.google.co.jp/search?q=always+on+office+communicator&oq=always+on+office+communicator&aqs=chrome.0.69i59j0.2967j0j4&sourceid=chrome&es_sm=122&ie=UTF-8
 
