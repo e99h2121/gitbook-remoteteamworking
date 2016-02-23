@@ -1,5 +1,8 @@
 ## Online tools
 
+These tool will be useful, not just for the communication, but for the asynchronous collaborative work.
+
+
 #### Online collaboration
 
 https://en.wikipedia.org/wiki/Collaborative_real-time_editor

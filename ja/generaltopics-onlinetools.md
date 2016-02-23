@@ -1,24 +1,27 @@
 ## Online tools
 
+ã‚³ãƒŸãƒ¥ãƒ‹ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãƒ„ãƒ¼ãƒ«ã¨ã—ã¦ã§ã¯ãªãã€éåŒæœŸã«å…±åŒä½œæ¥­ã‚’è¡Œã†ä¸Šã§æœ‰ç”¨ãªãƒ„ãƒ¼ãƒ«
+
+
 #### Online collaboration
 
 https://en.wikipedia.org/wiki/Collaborative_real-time_editor
 
 - [Google Docs](https://www.google.com/docs/about/)
 
-Google Account‚ª•K—v
+Google AccountãŒå¿…è¦
 
 - [OneDrive](https://onedrive.live.com/about/en-us/)
 
-Microsoft Account‚ª•K—v
+Microsoft AccountãŒå¿…è¦
 
 - [ZohoEdit](https://www.zoho.com/docs/#allfiles)
 
-ƒAƒJƒEƒ“ƒgì¬‚ª•K—v
+ã‚¢ã‚«ã‚¦ãƒ³ãƒˆä½œæˆãŒå¿…è¦
 
 - [Collabedit](http://collabedit.com/ )
 
-ƒƒOƒCƒ“AURL‚ğ‹¤—L‚·‚é‚Ì‚İBText ‚ ‚é‚¢‚Í source code ‚Ì‚İ
+ãƒ­ã‚°ã‚¤ãƒ³ã€URLã‚’å…±æœ‰ã™ã‚‹ã®ã¿ã€‚Text ã‚ã‚‹ã„ã¯ source code ã®ã¿
 
 - [Etherpad](http://etherpad.org/)
 
@@ -26,7 +29,7 @@ Open Source online editor
 
 - [Hackpad](https://hackpad.com/)
 
-Google, Facebook account, ‚ ‚é‚¢‚Í mail address ‚ªƒAƒJƒEƒ“ƒgì¬‚É•K—v
+Google, Facebook account, ã‚ã‚‹ã„ã¯ mail address ãŒã‚¢ã‚«ã‚¦ãƒ³ãƒˆä½œæˆã«å¿…è¦
 
 - [ZohoDocs](https://www.zoho.com/docs/download.html)
 
@@ -45,7 +48,7 @@ http://qiita.com/ayokura/items/87fc2609e3abdf8227fe
 
 - [Realtimeboard](https://realtimeboard.com/)
 
-Google, Facebook account, ‚ ‚é‚¢‚Í mail address ‚ªƒAƒJƒEƒ“ƒgì¬‚É•K—v
+Google, Facebook account, ã‚ã‚‹ã„ã¯ mail address ãŒã‚¢ã‚«ã‚¦ãƒ³ãƒˆä½œæˆã«å¿…è¦
 
 - [WebWhiteBoard](http://webwhiteboard.com/)
 
